@@ -69,3 +69,7 @@ dist/
 ### Sass ###
 .sass-cache
 *.css.map
+
+Gruntfile.js
+
+package.json
