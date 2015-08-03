@@ -56,13 +56,14 @@ p {
 }
 .title .cta {
   display: block;
+  border: none;
   color: black;
   background: #ffffff;
   width: 400px;
   height: 85px;
   border-radius: 85px;
   font-size: 1.7em;
-  padding: 25px 40px;
+  padding: 25px 35px;
   margin: 30px auto 0;
   text-decoration: none;
   font-weight: bold;
