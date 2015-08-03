@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="259px" height="285px" viewBox="0 0 259 285" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.9811065%" id="linearGradient-1">
+            <stop stop-color="#F35454" offset="0%"></stop>
+            <stop stop-color="#D14141" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#ECECEC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup">
+            <g id="Group" sketch:type="MSLayerGroup">
+                <g id="Rectangle-110-+-Rectangle-110-Copy" transform="translate(128.631776, 141.123053) rotate(8.000000) translate(-128.631776, -141.123053) translate(17.403285, 14.511898)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-110" fill="url(#linearGradient-1)" x="0" y="0" width="222.456982" height="49.6978363"></rect>
+                    <rect id="Rectangle-110-Copy" fill="url(#linearGradient-2)" x="0" y="47.3312727" width="222.456982" height="205.891036"></rect>
+                </g>
+                <text id="W" sketch:type="MSTextLayer" transform="translate(104.073541, 159.180009) rotate(8.000000) translate(-104.073541, -159.180009) " font-family="Lato" font-size="113.595054" font-weight="900" fill="#2D2D2D">
+                    <tspan x="35.8404399" y="203.732945">W</tspan>
+                </text>
+                <text id="S" sketch:type="MSTextLayer" transform="translate(189.721280, 171.217014) rotate(8.000000) translate(-189.721280, -171.217014) " font-family="Lato" font-size="113.595054" font-weight="900" fill="#2D2D2D">
+                    <tspan x="150.165859" y="215.76995">S</tspan>
+                </text>
+                <text id="weekly-series" sketch:type="MSTextLayer" transform="translate(143.123704, 38.007627) rotate(8.000000) translate(-143.123704, -38.007627) " font-family="Lato" font-size="28.3987636" font-weight="300" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="62.4002183" y="48.2584">weekly series</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

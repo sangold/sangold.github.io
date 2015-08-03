@@ -1,0 +1,151 @@
+html {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  height: 100%;
+  background: white;
+}
+body {
+  height: 100%;
+}
+h1 {
+  font-size: 6.2em;
+  font-weight: 900;
+  text-align: center;
+  text-transform: uppercase;
+}
+h2 {
+  font-size: 1.6em;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+h3 {
+  font-size: 2.2em;
+  font-weight: 300;
+  text-align: center;
+}
+p {
+  font-weight: 300;
+}
+.header {
+  position: relative;
+  background: url(../img/header.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 70%;
+}
+.title {
+  position: absolute;
+  max-width: 1200px;
+  padding: 0 20px;
+  width: 100%;
+  margin: 0 auto;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.title .logo {
+  float: left;
+  margin-right: 50px;
+  width: 20%;
+}
+.title .content {
+  padding-top: 50px;
+  float: left;
+}
+.title .cta {
+  display: block;
+  color: black;
+  background: #ffffff;
+  width: 400px;
+  height: 85px;
+  border-radius: 85px;
+  font-size: 1.7em;
+  padding: 25px 40px;
+  margin: 30px auto 0;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+}
+.title .cta i {
+  color: #dd4848;
+}
+.title .cta span.small {
+  font-size: .6em;
+  font-weight: 300;
+  font-style: italic;
+  margin-left: 15px;
+}
+.features {
+  max-width: 1200px;
+  width: 100%;
+  background: white;
+  margin: 45px auto;
+  padding: 0 20px;
+}
+.feature {
+  width: 30%;
+  float: left;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.feature .icon {
+  display: block;
+  width: 100%;
+  height: 150px;
+}
+.feature .icon img {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.feature hr {
+  display: none;
+}
+.feature.center {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+@media (max-width: 1170px) {
+  .title .logo {
+    display: block;
+    float: none;
+    margin: 0 auto;
+  }
+  .title .content {
+    float: none;
+    padding-top: 0;
+  }
+  h1 {
+    font-size: 5.8em;
+  }
+  h3 {
+    font-size: 1.6em;
+  }
+}
+@media (max-width: 830px) {
+  h1 {
+    font-size: 4em;
+  }
+  h3 {
+    font-size: 1.4em;
+  }
+}
+@media (max-width: 720px) {
+  .feature {
+    float: none;
+    width: 100%;
+    padding: 0 20px;
+  }
+  .feature hr {
+    display: block;
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
+  }
+  .feature br {
+    display: none;
+  }
+}
